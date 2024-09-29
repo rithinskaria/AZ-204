@@ -1,0 +1,14 @@
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/EmployeeApi
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/appsettings.json
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Data/employees.json
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/EmployeeApi.dll
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/EmployeeApi.deps.json
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/EmployeeApi.runtimeconfig.json
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/EmployeeApi.pdb
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rithinskaria/Projects/ApiManagement/EmployeeApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

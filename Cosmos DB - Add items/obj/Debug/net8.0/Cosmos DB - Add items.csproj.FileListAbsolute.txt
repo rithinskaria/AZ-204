@@ -1,0 +1,46 @@
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Cosmos.CRTCompat.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/msvcp140.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/vcruntime140.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/vcruntime140_1.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Cosmos DB - Add items
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Cosmos DB - Add items.deps.json
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Cosmos DB - Add items.runtimeconfig.json
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Cosmos DB - Add items.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Cosmos DB - Add items.pdb
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Azure.Core.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Azure.Cosmos.Client.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Azure.Cosmos.Core.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Azure.Cosmos.Direct.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Bcl.HashCode.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win-x64/native/Cosmos.CRTCompat.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win-x64/native/msvcp140.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win-x64/native/vcruntime140.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win-x64/native/vcruntime140_1.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.csproj.AssemblyReference.cache
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.AssemblyInfoInputs.cache
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.AssemblyInfo.cs
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.csproj.CoreCompileInputs.cache
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos D.321A4BA4.Up2Date
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/refint/Cosmos DB - Add items.dll
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.pdb
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/Cosmos DB - Add items.genruntimeconfig.cache
+/Users/rithinskaria/Projects/Cosmos DB - Add items/obj/Debug/net8.0/ref/Cosmos DB - Add items.dll

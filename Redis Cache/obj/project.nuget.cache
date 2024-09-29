@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tK/DZt/7fbI=",
+  "success": true,
+  "projectFilePath": "/Users/rithinskaria/Projects/RedisCacheApp/RedisCacheApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/rithinskaria/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/stackexchange.redis/2.8.16/stackexchange.redis.2.8.16.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/AirportLogApi
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/appsettings.json
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Data/airportLogs.json
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/AirportLogApi.dll
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/AirportLogApi.deps.json
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/AirportLogApi.runtimeconfig.json
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/AirportLogApi.pdb
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rithinskaria/Projects/ApiManagement/AirportLogApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

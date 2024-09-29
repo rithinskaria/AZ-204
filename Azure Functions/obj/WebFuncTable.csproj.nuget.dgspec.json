@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rithinskaria/Library/CloudStorage/OneDrive-AZURETALES/Projects/Kodekloud/AZ-204/Assets/WebFuncTable/WebFuncTable.csproj": {}
+  },
+  "projects": {
+    "/Users/rithinskaria/Library/CloudStorage/OneDrive-AZURETALES/Projects/Kodekloud/AZ-204/Assets/WebFuncTable/WebFuncTable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rithinskaria/Library/CloudStorage/OneDrive-AZURETALES/Projects/Kodekloud/AZ-204/Assets/WebFuncTable/WebFuncTable.csproj",
+        "projectName": "WebFuncTable",
+        "projectPath": "/Users/rithinskaria/Library/CloudStorage/OneDrive-AZURETALES/Projects/Kodekloud/AZ-204/Assets/WebFuncTable/WebFuncTable.csproj",
+        "packagesPath": "/Users/rithinskaria/.nuget/packages/",
+        "outputPath": "/Users/rithinskaria/Library/CloudStorage/OneDrive-AZURETALES/Projects/Kodekloud/AZ-204/Assets/WebFuncTable/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rithinskaria/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Data.Tables": {
+              "target": "Package",
+              "version": "[12.9.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Storage": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

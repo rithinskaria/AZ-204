@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WeIdd1YpmM=",
+  "success": true,
+  "projectFilePath": "/Users/rithinskaria/Projects/MsalClientApp/MsalClientApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/rithinskaria/.nuget/packages/microsoft.identity.client/4.64.1/microsoft.identity.client.4.64.1.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.identitymodel.abstractions/6.35.0/microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

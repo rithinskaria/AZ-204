@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB9EQwHYWAjnHhF9IvvKW9i3AslqJD3n0CEhkB2FxXsfD2uQ7nbso/dc8FgN6AYebZgXX4AkjFr88ZgerXJ9Rg==",
+  "success": true,
+  "projectFilePath": "/Users/rithinskaria/Projects/BlobClientObjectDemo/BlobClientObjectDemo/BlobClientObjectDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/rithinskaria/.nuget/packages/azure.core/1.41.0/azure.core.1.41.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/azure.identity/1.12.0/azure.identity.1.12.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/azure.storage.blobs/12.21.2/azure.storage.blobs.12.21.2.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/azure.storage.common/12.20.1/azure.storage.common.12.20.1.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.identity.client/4.61.3/microsoft.identity.client.4.61.3.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.identity.client.extensions.msal/4.61.3/microsoft.identity.client.extensions.msal.4.61.3.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.identitymodel.abstractions/6.35.0/microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.clientmodel/1.0.0/system.clientmodel.1.0.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/rithinskaria/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

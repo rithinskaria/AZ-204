@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="background-color:@ViewBag.BackgroundColor; padding:50px;">
+    <h1 style="font-size:@ViewBag.FontSize;">@ViewBag.Message</h1>
+    <p>This page is dynamically configured using Azure App Configuration.</p>
+</div>

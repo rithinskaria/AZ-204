@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/548f7d26-b5b1-468e-ad45-6ee12accf7e7/resourceGroups/eg-az204-appinsights/providers/Microsoft.Web/sites/thebrokenappinsights"
+}

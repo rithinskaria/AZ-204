@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Broken App";
+}
+
+<h1>The Broken App ⛓️‍💥</h1>
+<br>
+<br>
+<h2></h2>
+<div>
+    <button onclick="location.href='?handler=NullReference'">Null Reference Exception</button>
+    <button onclick="location.href='?handler=DivideByZero'">Divide By Zero Exception</button>
+    <button onclick="location.href='?handler=CustomException'">Custom Exception</button>
+    <button onclick="location.href='?handler=DatabaseError'">Broken Database Connection</button>
+</div>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mC9r5mEcAjgEQR/g6U5fDqX+OtvqcX3ufhnBl/aytDY=",
+  "Source": "AirportLogApi",
+  "BasePath": "_content/AirportLogApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
