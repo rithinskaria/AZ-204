@@ -50,12 +50,16 @@ This repository contains code samples and projects to help you prepare for the A
     - Metadata Management
     - SAS Builder
     - User Delegation SAS
+    - Static Website
 
 15. **Storage Queue Function App**
     - Azure Functions with Storage Queue trigger
 
 16. **API Management**
     - API Management service configuration and usage
+      
+17. **App Service**
+    - Bootstrap template to deploy WebApp
 
 ## Getting Started
 
