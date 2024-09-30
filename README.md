@@ -45,15 +45,16 @@ This repository contains code samples and projects to help you prepare for the A
     - Messaging with Azure Service Bus
 
 13. **Storage Account**
+    - List Containers
     - Container SAS
     - Metadata Management
     - SAS Builder
     - User Delegation SAS
 
-14. **Storage Queue Function App**
+15. **Storage Queue Function App**
     - Azure Functions with Storage Queue trigger
 
-15. **API Management**
+16. **API Management**
     - API Management service configuration and usage
 
 ## Getting Started
